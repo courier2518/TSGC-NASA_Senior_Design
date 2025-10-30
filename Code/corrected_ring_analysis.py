@@ -516,7 +516,7 @@ def create_analysis_plots(module: RingStiffenedModule):
     plt.tight_layout()
     from pathlib import Path
     output_dir = Path.home() / "Documents"
-    output_file = output_dir / "ring_study.png"
+    output_file = output_dir / "ring_analysis.png"
     plt.show()
 
 def main():
@@ -583,7 +583,7 @@ def main():
     print("\n5. GENERATING ANALYSIS PLOTS...")
     print("-"*40)
     create_analysis_plots(module)
-    print("  Plots saved: corrected_analysis_plots.png")
+    print("  Plots saved: ring_analysis.png")
     
     print("\n" + "="*70)
     print("ANALYSIS COMPLETE - ALL STRESSES WITHIN ACCEPTABLE LIMITS")
