@@ -1,45 +1,25 @@
-﻿Study Static Analysis:1 started: 11/4/2025, 7:59:21 AM
+﻿Study Static Analysis:1 started: 11/4/2025, 12:33:27 PM
 Number of configurations: 1
-Default mesh: 53086 elements, 31358 nodes
-Mesh at contact 37 is too coarse
-Mesh at contact 40 is too coarse
-Mesh at contact 43 is too coarse
-Mesh at contact 46 is too coarse
-Mesh at contact 49 is too coarse
-Mesh at contact 52 is too coarse
-Solution time 42.5s
+Default mesh: 51252 elements, 30276 nodes
+Solution time 56.1s
 Convergence rate: 50%
-h Refinement #1: 54496 elements, 32086 nodes
+h Refinement #1: 55041 elements, 32212 nodes
 
-Mesh at contact 37 is too coarse
-Mesh at contact 40 is too coarse
-Mesh at contact 43 is too coarse
-Mesh at contact 46 is too coarse
-Mesh at contact 49 is too coarse
-Mesh at contact 52 is too coarse
-Solution time 45.2s
-Convergence rate: 44.5%
-h Refinement #2: 55370 elements, 32528 nodes
+Solution time 139s
+Convergence rate: 53.6%
+h Refinement #2: 59852 elements, 34632 nodes
 
-Mesh at contact 37 is too coarse
-Mesh at contact 40 is too coarse
-Mesh at contact 43 is too coarse
-Mesh at contact 46 is too coarse
-Mesh at contact 49 is too coarse
-Mesh at contact 52 is too coarse
-Solution time 52.2s
-Convergence rate: 34.4%
-h Refinement #3: 55999 elements, 32850 nodes
+Solution time 156s
+Convergence rate: 36.5%
+h Refinement #3: 64674 elements, 37120 nodes
 
-Mesh at contact 37 is too coarse
-Mesh at contact 40 is too coarse
-Mesh at contact 43 is too coarse
-Mesh at contact 46 is too coarse
-Mesh at contact 49 is too coarse
-Mesh at contact 52 is too coarse
-Solution time 55.4s
-Convergence rate: 0.00397%
+Solution time 108s
+Convergence rate: 13.2%
+h Refinement #4: 64674 elements, 37120 nodes
+
+Solution time 208s
+Convergence rate: 0.0171%
 Problem converged 
-Study        Worst Jacobian ratio :  1  on element 1 finished: 11/4/2025, 8:03:08 AM
-Total time 0:03:47
+Study        Worst Jacobian ratio :  1  on element 1 finished: 11/4/2025, 12:45:02 PM
+Total time 0:11:35
 
