@@ -1,164 +1,45 @@
-﻿Study Static Analysis:1 started: 11/3/2025, 8:45:22 PM
+﻿Study Static Analysis:1 started: 11/4/2025, 7:59:21 AM
 Number of configurations: 1
-Default mesh: 38514 elements, 32523 nodes
-A model separates into 7 independent components
-Soft spring was added
-Soft spring was added
-Solution time 4.7s
+Default mesh: 53086 elements, 31358 nodes
+Mesh at contact 37 is too coarse
+Mesh at contact 40 is too coarse
+Mesh at contact 43 is too coarse
+Mesh at contact 46 is too coarse
+Mesh at contact 49 is too coarse
+Mesh at contact 52 is too coarse
+Solution time 42.5s
 Convergence rate: 50%
-Reached the total number of h refinements 
-Study Static Analysis:1 finished: 11/3/2025, 8:45:28 PM
-Total time 0:00:06
+h Refinement #1: 54496 elements, 32086 nodes
 
-Study Static Analysis:1 started: 11/3/2025, 9:01:53 PM
-Number of configurations: 1
-Default mesh: 47246 elements, 26447 nodes
-A model separates into 6 independent components
-Soft spring was added
-Soft spring was added
-Solution time 5.6s
-Convergence rate: 50%
-Reached the total number of h refinements 
-Study        Worst Jacobian ratio :  1  on element 1 finished: 11/3/2025, 9:02:11 PM
-Total time 0:00:18
+Mesh at contact 37 is too coarse
+Mesh at contact 40 is too coarse
+Mesh at contact 43 is too coarse
+Mesh at contact 46 is too coarse
+Mesh at contact 49 is too coarse
+Mesh at contact 52 is too coarse
+Solution time 45.2s
+Convergence rate: 44.5%
+h Refinement #2: 55370 elements, 32528 nodes
 
-Study Static Analysis:1 started: 11/3/2025, 9:04:54 PM
-Number of configurations: 1
-Default mesh: 38514 elements, 32523 nodes
-A model separates into 7 independent components
-Soft spring was added
-Soft spring was added
-Solution time 4.9s
-Convergence rate: 50%
-Reached the total number of h refinements 
-Study        Worst Jacobian ratio :  1  on element 1 finished: 11/3/2025, 9:05:04 PM
-Total time 0:00:10
+Mesh at contact 37 is too coarse
+Mesh at contact 40 is too coarse
+Mesh at contact 43 is too coarse
+Mesh at contact 46 is too coarse
+Mesh at contact 49 is too coarse
+Mesh at contact 52 is too coarse
+Solution time 52.2s
+Convergence rate: 34.4%
+h Refinement #3: 55999 elements, 32850 nodes
 
-Study Static Analysis:1 started: 11/3/2025, 9:27:52 PM
-Number of configurations: 1
-Default mesh: 44465 elements, 35629 nodes
-A model separates into 2 independent components
-Soft spring was added
-Soft spring was added
-Solution time 5.5s
-Convergence rate: 50%
-Reached the total number of h refinements 
-Study        Worst Jacobian ratio :  1  on element 1 finished: 11/3/2025, 9:28:04 PM
-Total time 0:00:12
-
-Study Static Analysis:1 started: 11/3/2025, 9:28:57 PM
-Number of configurations: 1
-Study Static Analysis:1 finished: 11/3/2025, 9:28:57 PM
-Total time 0:00:00
-
-Study Static Analysis:1 started: 11/3/2025, 9:30:06 PM
-Number of configurations: 1
-Study Static Analysis:1 finished: 11/3/2025, 9:30:06 PM
-Total time 0:00:00
-
-Study Static Analysis:1 started: 11/3/2025, 9:31:15 PM
-Number of configurations: 1
-h Refinement #1: 44695 elements, 35744 nodes
-
-A model separates into 2 independent components
-Soft spring was added
-Soft spring was added
-Solution time 5.6s
-Convergence rate: 38.6%
-h Refinement #2: 44859 elements, 35826 nodes
-
-A model separates into 2 independent components
-Soft spring was added
-Soft spring was added
-Solution time 5.8s
-Convergence rate: 32.1%
-h Refinement #3: 44865 elements, 35829 nodes
-
-A model separates into 2 independent components
-Soft spring was added
-Soft spring was added
-Solution time 5.4s
-Convergence rate: 5.09%
+Mesh at contact 37 is too coarse
+Mesh at contact 40 is too coarse
+Mesh at contact 43 is too coarse
+Mesh at contact 46 is too coarse
+Mesh at contact 49 is too coarse
+Mesh at contact 52 is too coarse
+Solution time 55.4s
+Convergence rate: 0.00397%
 Problem converged 
-Study        Worst Jacobian ratio :  1  on element 1 finished: 11/3/2025, 9:31:43 PM
-Total time 0:00:28
-
-Study Static Analysis:1 started: 11/3/2025, 9:36:51 PM
-Number of configurations: 1
-Default mesh: 39448 elements, 34154 nodes
-Solution time 37.6s
-Convergence rate: 50%
-h Refinement #1: 41132 elements, 37656 nodes
-
-Solution time 45.8s
-Convergence rate: 19.6%
-h Refinement #2: 45319 elements, 45343 nodes
-
-Solution time 48.3s
-Convergence rate: 60.1%
-h Refinement #3: 48353 elements, 50513 nodes
-
-Solution time 42.3s
-Convergence rate: 37.3%
-h Refinement #4: 51518 elements, 56208 nodes
-
-Solution time 45.3s
-Convergence rate: 59.6%
-h Refinement #5: 52331 elements, 57579 nodes
-
-Solution time 53.2s
-Convergence rate: 25.9%
-Reached the total number of h refinements 
-Study        Worst Jacobian ratio :  1  on element 1 finished: 11/3/2025, 9:41:50 PM
-Total time 0:04:59
-
-Study Static Analysis:1 started: 11/3/2025, 9:43:43 PM
-Number of configurations: 1
-Default mesh: 39724 elements, 34292 nodes
-Solution time 32.3s
-Convergence rate: 50%
-h Refinement #1: 41408 elements, 37794 nodes
-
-Solution time 36.6s
-Convergence rate: 19.3%
-h Refinement #2: 45548 elements, 45408 nodes
-
-Solution time 44.1s
-Convergence rate: 60.1%
-h Refinement #3: 48550 elements, 50533 nodes
-
-Solution time 37.6s
-Convergence rate: 36.9%
-h Refinement #4: 51715 elements, 56228 nodes
-
-Solution time 43.7s
-Convergence rate: 60.1%
-h Refinement #5: 52528 elements, 57599 nodes
-
-Solution time 46.6s
-Convergence rate: 26.1%
-Reached the total number of h refinements 
-Study        Worst Jacobian ratio :  1  on element 1 finished: 11/3/2025, 9:48:11 PM
-Total time 0:04:28
-
-Study Static Analysis:1 started: 11/3/2025, 9:58:32 PM
-Number of configurations: 1
-Default mesh: 37620 elements, 21054 nodes
-Solution time 9s
-Convergence rate: 50%
-h Refinement #1: 38794 elements, 22634 nodes
-
-Solution time 10.6s
-Convergence rate: 43.1%
-h Refinement #2: 39147 elements, 22982 nodes
-
-Solution time 3.1s
-Convergence rate: 31%
-h Refinement #3: 39319 elements, 23288 nodes
-
-Solution time 3.1s
-Convergence rate: 0.0253%
-Problem converged 
-Study        Worst Jacobian ratio :  1  on element 1 finished: 11/3/2025, 9:59:27 PM
-Total time 0:00:55
+Study        Worst Jacobian ratio :  1  on element 1 finished: 11/4/2025, 8:03:08 AM
+Total time 0:03:47
 
