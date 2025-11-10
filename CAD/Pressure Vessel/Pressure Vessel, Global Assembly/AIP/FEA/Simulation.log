@@ -1,96 +1,120 @@
-﻿Study Static Analysis:1 started: 11/5/2025, 9:03:03 PM
+﻿Study Static Analysis:1 started: 11/9/2025, 6:59:10 PM
 Number of configurations: 1
-Default mesh: 322197 elements, 275087 nodes
-Mesh at contact 42 is too coarse
-Mesh at contact 51 is too coarse
-Mesh at contact 81 is too coarse
-Mesh at contact 82 is too coarse
-Mesh at contact 83 is too coarse
-Mesh at contact 84 is too coarse
-Mesh at contact 85 is too coarse
+Default mesh: 54636 elements, 32544 nodes
+Solution time 75.6s
+Convergence rate: 50%
+Reached the total number of h refinements 
+Study Static Analysis:1 finished: 11/9/2025, 7:00:28 PM
+Total time 0:01:18
+
+Study Static Analysis:1 started: 11/9/2025, 7:17:33 PM
+Number of configurations: 1
+Default mesh: 245262 elements, 397716 nodes
+Study Static Analysis:1 failed. 11/9/2025, 7:18:18 PM
+Total time 0:00:45
+
+Study Static Analysis:1 started: 11/9/2025, 7:20:01 PM
+Number of configurations: 1
+Default mesh: 228535 elements, 355017 nodes
+Solution time 83.7s
+Convergence rate: 50%
+Reached the total number of h refinements 
+Study Static Analysis:1 finished: 11/9/2025, 7:21:32 PM
+Total time 0:01:31
+
+Study Static Analysis:1 started: 11/9/2025, 7:28:52 PM
+Number of configurations: 1
+Default mesh: 228535 elements, 355017 nodes
+Solution time 83.3s
+Convergence rate: 50%
+Reached the total number of h refinements 
+Study Static Analysis:1 finished: 11/9/2025, 7:30:22 PM
+Total time 0:01:30
+
+Study Static Analysis:1 started: 11/9/2025, 7:44:50 PM
+Number of configurations: 1
+Default mesh: 276554 elements, 443375 nodes
+Mesh at contact 209 is too coarse
+Solution time 77.9s
+Convergence rate: 50%
+Reached the total number of h refinements 
+Study Static Analysis:1 finished: 11/9/2025, 7:46:16 PM
+Total time 0:01:26
+
+Study Static Analysis:1 started: 11/9/2025, 7:48:46 PM
+Number of configurations: 1
+Default mesh: 276554 elements, 443375 nodes
+Mesh at contact 209 is too coarse
+Solution time 94s
+Convergence rate: 50%
+Reached the total number of h refinements 
+Study Static Analysis:1 finished: 11/9/2025, 7:50:28 PM
+Total time 0:01:42
+
+Study Static Analysis:2 started: 11/9/2025, 7:53:12 PM
+Number of configurations: 1
+Default mesh: 275738 elements, 441883 nodes
+Mesh at contact 144 is too coarse
+Solution time 600s
+Convergence rate: 50%
+Reached the total number of h refinements 
+Study        Worst Jacobian ratio :  1  on element 1 finished: 11/9/2025, 8:03:49 PM
+Total time 0:10:37
+
+Study Static Analysis:1 started: 11/9/2025, 8:23:25 PM
+Number of configurations: 1
+Default mesh: 269169 elements, 436797 nodes
+A model separates into 6 independent components
+Soft spring was added
+Soft spring was added
+Solution time 21.1s
+Convergence rate: 50%
+Reached the total number of h refinements 
+Study Static Analysis:1 finished: 11/9/2025, 8:23:53 PM
+Total time 0:00:28
+
+Study Static Analysis:1 started: 11/9/2025, 8:26:31 PM
+Number of configurations: 1
+Default mesh: 269169 elements, 436797 nodes
+A model separates into 6 independent components
+Soft spring was added
+Soft spring was added
+Solution time 20.2s
+Convergence rate: 50%
+Reached the total number of h refinements 
+Study Static Analysis:1 finished: 11/9/2025, 8:26:59 PM
+Total time 0:00:28
+
+Study Static Analysis:1 started: 11/9/2025, 8:29:54 PM
+Number of configurations: 1
+Default mesh: 266580 elements, 431711 nodes
+A model separates into 6 independent components
+Soft spring was added
 The deformation is large compared to the model size. Verify that load and constraint settings are appropriately scaled.
-Solution time 551s
+Solution time 21.4s
 Convergence rate: 50%
-h Refinement #1: 323375 elements, 276920 nodes
+Reached the total number of h refinements 
+Study        Worst Jacobian ratio :  1  on element 1 finished: 11/9/2025, 8:30:43 PM
+Total time 0:00:49
 
-Mesh at contact 42 is too coarse
-Mesh at contact 51 is too coarse
-Mesh at contact 81 is too coarse
-Mesh at contact 82 is too coarse
-Mesh at contact 83 is too coarse
-Mesh at contact 84 is too coarse
-Mesh at contact 85 is too coarse
-Solution time 166s
-h Refinement #2: 323375 elements, 276920 nodes
-
-Mesh at contact 42 is too coarse
-Mesh at contact 51 is too coarse
-Mesh at contact 81 is too coarse
-Mesh at contact 82 is too coarse
-Mesh at contact 83 is too coarse
-Mesh at contact 84 is too coarse
-Mesh at contact 85 is too coarse
-Solution time 122s
-Convergence rate: 32.8%
-h Refinement #3: 323375 elements, 276920 nodes
-
-Mesh at contact 42 is too coarse
-Mesh at contact 51 is too coarse
-Mesh at contact 81 is too coarse
-Mesh at contact 82 is too coarse
-Mesh at contact 83 is too coarse
-Mesh at contact 84 is too coarse
-Mesh at contact 85 is too coarse
-Solution time 113s
-Convergence rate: 2.76%
-Problem converged 
-Study        Worst Jacobian ratio :  1  on element 1 finished: 11/5/2025, 9:20:00 PM
-Total time 0:16:57
-
-Study Static Analysis:1 started: 11/5/2025, 10:04:34 PM
+Study Static Analysis:1 started: 11/9/2025, 8:36:19 PM
 Number of configurations: 1
-Default mesh: 324025 elements, 278156 nodes
-Mesh at contact 42 is too coarse
-Mesh at contact 51 is too coarse
-Mesh at contact 81 is too coarse
-Mesh at contact 82 is too coarse
-Mesh at contact 83 is too coarse
-Mesh at contact 84 is too coarse
-Mesh at contact 85 is too coarse
-A model separates into 2 independent components
+Default mesh: 266580 elements, 431711 nodes
+A model separates into 6 independent components
 Soft spring was added
-Soft spring was added
-Solution time 91.4s
+The deformation is large compared to the model size. Verify that load and constraint settings are appropriately scaled.
+Solution time 21.5s
 Convergence rate: 50%
-h Refinement #1: 324224 elements, 278580 nodes
+Reached the total number of h refinements 
+Study        Worst Jacobian ratio :  1  on element 1 finished: 11/9/2025, 8:37:03 PM
+Total time 0:00:44
 
-Mesh at contact 42 is too coarse
-Mesh at contact 51 is too coarse
-Mesh at contact 81 is too coarse
-Mesh at contact 82 is too coarse
-Mesh at contact 83 is too coarse
-Mesh at contact 84 is too coarse
-Mesh at contact 85 is too coarse
-A model separates into 2 independent components
-Soft spring was added
-Soft spring was added
-Solution time 86.7s
-Convergence rate: 15%
-h Refinement #2: 324224 elements, 278580 nodes
-
-Mesh at contact 42 is too coarse
-Mesh at contact 51 is too coarse
-Mesh at contact 81 is too coarse
-Mesh at contact 82 is too coarse
-Mesh at contact 83 is too coarse
-Mesh at contact 84 is too coarse
-Mesh at contact 85 is too coarse
-A model separates into 2 independent components
-Soft spring was added
-Soft spring was added
-Solution time 87.1s
-Convergence rate: 0%
-Problem converged 
-Study        Worst Jacobian ratio :  1  on element 1 finished: 11/5/2025, 10:09:51 PM
-Total time 0:05:17
+Study Static Analysis:1 started: 11/9/2025, 8:57:11 PM
+Number of configurations: 1
+Default mesh: 271130 elements, 433981 nodes
+Solution time 40.3s
+Convergence rate: 50%
+Reached the total number of h refinements 
+Study        Worst Jacobian ratio :  1  on element 1 finished: 11/9/2025, 8:58:17 PM
+Total time 0:01:06
 
