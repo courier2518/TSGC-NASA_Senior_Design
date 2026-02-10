@@ -1,0 +1,33 @@
+{
+  "geometry": {
+    "length_m": 10.0,
+    "diameter_m": 4.25,
+    "thickness_mm": 5.0,
+    "R_over_t": 425.0,
+    "area_m2": 0.06668030407244142,
+    "I_m4": 0.15019780167507515,
+    "internal_volume_m3": 141.19574022293966
+  },
+  "mass_kg": {
+    "structure": 2330.5,
+    "payload": 8000.0,
+    "total": 10330.5
+  },
+  "case1_launch": {
+    "P_cr_governing_MN": 3.27,
+    "governing_mode": "Shell (NASA SP-8007)",
+    "sigma_combined_MPa": 16.2883,
+    "sigma_VM_MPa": 54.1004,
+    "delta_axial_mm": 1.2475,
+    "delta_lateral_mm": 7.558,
+    "MS_yield": 4.81,
+    "MS_ultimate": 4.61,
+    "MS_buckling": 0.51,
+    "interaction_ratio": 0.0891
+  },
+  "case3_pressure": {
+    "MEOP_kPa": 110.0,
+    "hoop_stress_MPa": 46.7,
+    "VM_stress_MPa": 40.44
+  }
+}
